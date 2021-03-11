@@ -44,4 +44,3 @@ public class CartManager {
         items = tmp;
     }
 }
-
